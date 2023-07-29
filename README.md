@@ -16,4 +16,5 @@ Examples of strong data augmentations:
 
 ## Examples
 Original image
+![image](https://github.com/1996JCZhou/Multiple-Objects-Tracking/blob/master/data/Snap_Shot.PNG)
 
