@@ -16,5 +16,29 @@ Examples of strong data augmentations:
 
 ## Examples
 Original image
-![image](https://github.com/1996JCZhou/Multiple-Objects-Tracking/blob/master/data/Snap_Shot.PNG)
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/swan.jpg)
+
+Image after stronger contrast changes
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Contrast_Stronger.jpg)
+
+Image after equalization changes
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Equalize.jpg)
+
+Image after rotation with 120 degree
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Rotation120.jpg)
+
+Image after adding blur
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Sharpness_Addblur.jpg)
+
+Image after increasing sharpness
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Sharpness_Increasesharpness.jpg)
+
+Image after schearing along the x-axis with 30 degree
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_ShearX30.jpg)
+
+Image after solarization
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Solarize.jpg)
+
+Image after solarization
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Solarize.jpg)
 
