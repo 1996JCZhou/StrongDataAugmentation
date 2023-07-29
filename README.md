@@ -19,26 +19,25 @@ Original image
 ![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/swan.jpg)
 
 Image after stronger contrast changes
-![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Contrast_Stronger.jpg)
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Contrast_Stronger.JGP)
 
 Image after equalization changes
-![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Equalize.jpg)
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Equalize.JGP)
 
 Image after rotation with 120 degree
-![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Rotation120.jpg)
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Rotation120.JGP)
 
 Image after adding blur
-![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Sharpness_Addblur.jpg)
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Sharpness_Addblur.JGP)
 
 Image after increasing sharpness
-![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Sharpness_Increasesharpness.jpg)
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Sharpness_Increasesharpness.JGP)
 
 Image after schearing along the x-axis with 30 degree
-![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_ShearX30.jpg)
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_ShearX30.JGP)
 
 Image after solarization
-![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Solarize.jpg)
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Solarize.JGP)
 
 Image after solarization
-![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Solarize.jpg)
-
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Solarize.JGP)
