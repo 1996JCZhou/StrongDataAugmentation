@@ -19,25 +19,29 @@ Original image
 ![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/swan.jpg)
 
 Image after stronger contrast changes
-![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Contrast_Stronger.JGP)
+
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Contrast_Stronger.JPG)
 
 Image after equalization changes
-![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Equalize.JGP)
+
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Equalize.JPG)
 
 Image after rotation with 120 degree
-![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Rotation120.JGP)
+
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Rotation120.JPG)
 
 Image after adding blur
-![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Sharpness_Addblur.JGP)
+
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Sharpness_Addblur.JPG)
 
 Image after increasing sharpness
-![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Sharpness_Increasesharpness.JGP)
+
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Sharpness_Increasesharpness.JPG)
 
 Image after schearing along the x-axis with 30 degree
-![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_ShearX30.JGP)
+
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_ShearX30.JPG)
 
 Image after solarization
-![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Solarize.JGP)
 
-Image after solarization
-![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Solarize.JGP)
+![image](https://github.com/1996JCZhou/StrongDataAugmentation/blob/master/Examples/Image_Solarize.JPG)
